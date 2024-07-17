@@ -3,7 +3,7 @@
 
 // Replace with your network credentials
 const char* ssid = "AHS";
-const char* password = "017937793";
+const char* password = "12345";
 
 // Set GPIO pin for the relay
 const int relayPin = 5;
